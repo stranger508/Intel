@@ -1,0 +1,6 @@
+Head-no-helmet
+Head-w-helmet
+Allowed-passage
+Prohibition-on-traffic
+Unlicensed
+Licensed
